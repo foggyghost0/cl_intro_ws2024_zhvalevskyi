@@ -1,2 +1,3 @@
-exercises/best_model
+exercises/best_model/
+# Ignoring the word2vec embeddings binary file as it is large and can be regenerated
 word2vec_embeddings.bin
