@@ -1,3 +1,21 @@
 exercises/best_model/
 # Ignoring the word2vec embeddings binary file as it is large and can be regenerated
 word2vec_embeddings.bin
+best_model/config.json
+best_model/model.safetensors
+best_model/special_tokens_map.json
+best_model/tokenizer_config.json
+best_model/tokenizer.json
+best_model/training_args.bin
+best_model/vocab.txt
+best_model/checkpoint-313/config.json
+best_model/checkpoint-313/model.safetensors
+best_model/checkpoint-313/optimizer.pt
+best_model/checkpoint-313/rng_state.pth
+best_model/checkpoint-313/scheduler.pt
+best_model/checkpoint-313/special_tokens_map.json
+best_model/checkpoint-313/tokenizer_config.json
+best_model/checkpoint-313/tokenizer.json
+best_model/checkpoint-313/trainer_state.json
+best_model/checkpoint-313/training_args.bin
+best_model/checkpoint-313/vocab.txt
